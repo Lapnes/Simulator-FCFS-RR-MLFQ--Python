@@ -5,7 +5,7 @@
 ==================================================================================
 **_Create by.Ragil Amirzaky (alias Tenzly) | Dibantu oleh Gemini dan ChatGPT_**
 ==================================================================================
-Github:
+Github: https://github.com/Lapnes/Simulator-FCFS-RR-MLFQ--Python
 ====================================================================================================
 
 **Simulator Python modular** untuk memvisualisasikan **Algoritma Penjadwalan CPU** klasik:
